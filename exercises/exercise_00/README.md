@@ -1,4 +1,4 @@
-# Exercise 00 - Hello REE
+# Exercise 00 - Hello REE!
 
 This first exercise is a warm-up exercise to get you started with the Coding Challenge 2022.
 
@@ -8,7 +8,7 @@ The delimiter is a string that consists of `n` characters that may be chosen arb
 
 The default/maximum terminal width in the early days of UNIX was **80 characters**.
 
-![Computers in 1977](./computers_in_1977.jpeg)
+![Computers in 1977](./res/computers_in_1977.jpeg)
 
 The template code includes a `#define` that defines the terminal width to be **80 characters**. Use that!
 
@@ -32,7 +32,9 @@ Click on the `src` folder above. Then, click on the `main.c` file. This will ope
 
 ## Intro video
 
-[![Intro video](https://img.youtube.com/vi/0ZQ9ZQZ7ZqY/0.jpg)](https://www.youtube.com/watch?v=0ZQ9ZQZ7ZqY)
+<video src="./res/exercise_00_intro.mov" width="320" height="240" controls>
+  Your browser does not support the video tag.
+</video>
 
 ## Solution video
 
