@@ -8,6 +8,8 @@ The delimiter is a string that consists of `n` characters that may be chosen arb
 
 The default/maximum terminal width in the early days of UNIX was **80 characters**.
 
+![Computers in 1977](./computers_in_1977.jpeg)
+
 The template code includes a `#define` that defines the terminal width to be **80 characters**. Use that!
 
 The output should look like this:
