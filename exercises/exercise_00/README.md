@@ -36,6 +36,8 @@ Click on the `src` folder above. Then, click on the `main.c` file. This will ope
 
 [Watch the video on YouTube](https://youtu.be/sFyUag_d-tI)
 
+[![Watch this video first!](https://img.youtube.com/vi/sFyUag_d-tI/0.jpg)](https://www.youtube.com/watch?v=sFyUag_d-tI)
+
 ## Solution video
 
 Available on 23.12.2022.
