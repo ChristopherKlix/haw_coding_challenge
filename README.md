@@ -1,17 +1,23 @@
 # HAW Coding Challenge 2022
 
-🏆💻 Welcome to the HAW Coding Challenge 2022!
+🏆💻 Welcome to the **HAW Coding Challenge 2022**!
 
-This repository contains the exercises for the HAW Coding Challenge 2022.
+This repository contains the exercises for the **HAW Coding Challenge 2022**.
 
-Each day a new exercise will be published. Do your best to complete the exercise and follow the instructions.
+Each day a _new exercise_ will be published. Do your best to complete the exercise and **follow the instructions**.
 
-At the end of the day, the best solution will be selected and the winner will be announced.
-...wait, the is no prize. 🤔
+At the end of the day, the **best solution** will be selected and the winner will be announced.
+...wait, there is no prize. 🤔
 
-Anyway, you can learn a lot by doing this challenge.
+Anyway, you can learn **a lot** by doing this challenge.
 
-And at the end of each day a solution together with a detailed explanation video/tutorial will be published in the folder of the exercise.
+And it's Eger-approved! 🤓
+
+And at the end of each day a solution together with a **detailed explanation video/tutorial** will be published to the folder of the exercise.
+
+If you have questions, feel free to ask them in the group chat or hit me up on WhatsApp.
+
+**This challenge is open to everyone. You can participate individually or in a team.**
 
 ## How to participate
 
