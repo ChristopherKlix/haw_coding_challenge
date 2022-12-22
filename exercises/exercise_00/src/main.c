@@ -39,4 +39,6 @@ int main(int argc, char const *argv[])
 void print_delimiter(char delimiter, size_t count)
 {
     /* Code */
+
+    return;
 }
