@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos
+# Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,video
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,video
 
 ### macOS ###
 # General
@@ -34,6 +34,24 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+### Video ###
+*.3g2
+*.3gp
+*.asf
+*.asx
+*.avi
+*.flv
+*.mkv
+*.mov
+*.mp4
+*.mpg
+*.ogv
+*.rm
+*.swf
+*.vob
+*.wmv
+*.webm
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -53,4 +71,4 @@ Temporary Items
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos
+# End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,video
