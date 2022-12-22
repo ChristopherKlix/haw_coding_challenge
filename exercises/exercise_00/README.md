@@ -1,5 +1,7 @@
 # Exercise 00 - Hello REE!
 
+[Watch this video first!](https://youtu.be/sFyUag_d-tI)
+
 This first exercise is a warm-up exercise to get you started with the Coding Challenge 2022.
 
 All you need to do is to print the string `Hello REE!` to the console as well as a delimiter before and after the message.
