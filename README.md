@@ -15,7 +15,7 @@ And it's Eger-approved! 🤓
 
 And at the end of each day a solution together with a **detailed explanation video/tutorial** will be published to the folder of the exercise.
 
-## Questions
+### Questions
 
 If you have questions, feel free to ask them in the group chat or hit me up on WhatsApp.
 
