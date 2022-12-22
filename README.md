@@ -40,10 +40,15 @@ Download or copy/paste the template code into your IDE and start coding.
 Click on the exercise to see the instructions.
 
 [Exercise 0](./exercises/exercise_00/)
+
 [Exercise 1](./exercises/exercise_01/) (Uploaded on 23.12.2022)
+
 [Exercise 2](./exercises/exercise_02/) (Uploaded on 24.12.2022)
+
 [Exercise 3](./exercises/exercise_03/) (Uploaded on 25.12.2022)
+
 [Exercise 4](./exercises/exercise_04/) (Uploaded on 26.12.2022)
+
 [Exercise 5](./exercises/exercise_05/) (Uploaded on 27.12.2022)
 
 ## Template Code
