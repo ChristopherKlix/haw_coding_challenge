@@ -32,12 +32,8 @@ Click on the `src` folder above. Then, click on the `main.c` file. This will ope
 
 ## Intro video
 
-<video src="./res/exercise_00_intro.mov" width="320" height="240" controls>
-  Your browser does not support the video tag.
-</video>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EI6Jwd-Pkr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the video on YouTube](https://youtu.be/sFyUag_d-tI)
 
 ## Solution video
 
-[![Solution video](https://img.youtube.com/vi/0ZQ9ZQZ7ZqY/0.jpg)](https://www.youtube.com/watch?v=0ZQ9ZQZ7ZqY)
+Available on 23.12.2022.
