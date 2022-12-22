@@ -1,6 +1,6 @@
 # Exercise 00 - Hello REE!
 
-[Watch this video first!](https://youtu.be/sFyUag_d-tI)
+[Watch this video first!](https://youtu.be/sFyUag_d-tI) <- Click here or on the thumbnail below!
 
 [![Watch this video first!](https://img.youtube.com/vi/sFyUag_d-tI/0.jpg)](https://www.youtube.com/watch?v=sFyUag_d-tI)
 
@@ -36,7 +36,7 @@ Click on the `src` folder above. Then, click on the `main.c` file. This will ope
 
 ## Intro video
 
-[Watch the video on YouTube](https://youtu.be/sFyUag_d-tI)
+[Watch the video on YouTube](https://youtu.be/sFyUag_d-tI) <- Click here or on the thumbnail below!
 
 [![Watch this video first!](https://img.youtube.com/vi/sFyUag_d-tI/0.jpg)](https://www.youtube.com/watch?v=sFyUag_d-tI)
 
