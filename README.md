@@ -1,4 +1,27 @@
-# HOW TO
+# HAW Coding Challenge 2022
+
+🏆💻 Welcome to the HAW Coding Challenge 2022!
+
+This repository contains the exercises for the HAW Coding Challenge 2022.
+
+Each day a new exercise will be published. Do your best to complete the exercise and follow the instructions.
+
+At the end of the day, the best solution will be selected and the winner will be announced.
+...wait, the is no prize. 🤔
+
+Anyway, you can learn a lot by doing this challenge.
+
+And at the end of each day a solution together with a detailed explanation video/tutorial will be published in the folder of the exercise.
+
+## How to participate
+
+Go into the folder of the exercise and read the `README.md` file (it is automatically shown on GitHub when you click on the folder above).
+
+The `README.md` file contains the instructions for the exercise.
+
+The `main.c` file contains the template code for the exercise. You **MUST NOT** modify the template code.
+
+Download or copy/paste the template code into your IDE and start coding.
 
 ## Template Code
 
