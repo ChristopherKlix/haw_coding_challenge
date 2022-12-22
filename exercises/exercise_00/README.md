@@ -36,6 +36,8 @@ Click on the `src` folder above. Then, click on the `main.c` file. This will ope
   Your browser does not support the video tag.
 </video>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EI6Jwd-Pkr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Solution video
 
 [![Solution video](https://img.youtube.com/vi/0ZQ9ZQZ7ZqY/0.jpg)](https://www.youtube.com/watch?v=0ZQ9ZQZ7ZqY)
