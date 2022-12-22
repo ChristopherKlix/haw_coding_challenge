@@ -15,9 +15,15 @@ And it's Eger-approved! 🤓
 
 And at the end of each day a solution together with a **detailed explanation video/tutorial** will be published to the folder of the exercise.
 
+## Questions
+
 If you have questions, feel free to ask them in the group chat or hit me up on WhatsApp.
 
 **This challenge is open to everyone. You can participate individually or in a team.**
+
+### Happy coding!
+
+And remember: **_Don't Panic!_**
 
 ## How to participate
 
