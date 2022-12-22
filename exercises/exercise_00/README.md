@@ -26,6 +26,10 @@ And done!
 
 And remember: **_Don't Panic!_**
 
+## Where is the code?
+
+Click on the `src` folder above. Then, click on the `main.c` file. This will open the template code in your browser. You can then copy/paste the code into your IDE or download the file.
+
 ## Intro video
 
 [![Intro video](https://img.youtube.com/vi/0ZQ9ZQZ7ZqY/0.jpg)](https://www.youtube.com/watch?v=0ZQ9ZQZ7ZqY)
