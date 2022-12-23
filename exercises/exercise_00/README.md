@@ -42,4 +42,6 @@ Click on the `src` folder above. Then, click on the `main.c` file. This will ope
 
 ## Solution video
 
-Available on 23.12.2022.
+[Watch the video on YouTube](https://youtu.be/iAMYifEOeo8) <- Click here or on the thumbnail below!
+
+[![Watch this video first!](https://img.youtube.com/vi/iAMYifEOeo8/0.jpg)](https://www.youtube.com/watch?v=iAMYifEOeo8)
