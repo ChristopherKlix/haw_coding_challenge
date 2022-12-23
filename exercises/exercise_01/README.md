@@ -1,8 +1,8 @@
 # Exercise 01 - \[Hu\]rraaaaaays Part I
 
-<!-- [Watch this video first!](https://youtu.be/sFyUag_d-tI) <- Click here or on the thumbnail below!
+[Watch this video first!](https://youtu.be/ClOBza7CfI0) <- Click here or on the thumbnail below!
 
-[![Watch this video first!](https://img.youtube.com/vi/sFyUag_d-tI/0.jpg)](https://www.youtube.com/watch?v=sFyUag_d-tI) -->
+[![Watch this video first!](https://img.youtube.com/vi/ClOBza7CfI0/0.jpg)](https://www.youtube.com/watch?v=ClOBza7CfI0)
 
 This exercises is all about **arrays**.
 
@@ -63,9 +63,9 @@ The **solution code** is in the `solution` folder.
 
 Will be available in a few minutes...
 
-<!-- [Watch the video on YouTube](https://youtu.be/sFyUag_d-tI) <- Click here or on the thumbnail below!
+[Watch the video on YouTube](https://youtu.be/ClOBza7CfI0) <- Click here or on the thumbnail below!
 
-[![Watch this video first!](https://img.youtube.com/vi/sFyUag_d-tI/0.jpg)](https://www.youtube.com/watch?v=sFyUag_d-tI) -->
+[![Watch this video first!](https://img.youtube.com/vi/ClOBza7CfI0/0.jpg)](https://www.youtube.com/watch?v=ClOBza7CfI0)
 
 ## Solution video
 
