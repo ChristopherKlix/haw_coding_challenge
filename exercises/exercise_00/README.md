@@ -6,6 +6,8 @@
 
 This first exercise is a warm-up exercise to get you started with the Coding Challenge 2022.
 
+## The task
+
 All you need to do is to print the string `Hello REE!` to the console as well as a delimiter before and after the message.
 
 The delimiter is a string that consists of `n` characters that may be chosen arbitrarily but often used are `-` or `=`.
@@ -32,7 +34,21 @@ And remember: **_Don't Panic!_**
 
 ## Where is the code?
 
+### The template code
+
 Click on the `src` folder above. Then, click on the `main.c` file. This will open the template code in your browser. You can then copy/paste the code into your IDE or download the file.
+
+```sh
+./src/main.c
+```
+
+### The solution code
+
+The **solution code** is in the `solution` folder.
+
+```sh
+./solution/main.c
+```
 
 ## Intro video
 
