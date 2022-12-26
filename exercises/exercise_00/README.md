@@ -1,5 +1,7 @@
 # Exercise 00 - Hello REE!
 
+![GitHub](https://img.shields.io/badge/Difficulty-Easy-green)
+
 [Watch this video first!](https://youtu.be/sFyUag_d-tI) <- Click here or on the thumbnail below!
 
 [![Watch this video first!](https://img.youtube.com/vi/sFyUag_d-tI/0.jpg)](https://www.youtube.com/watch?v=sFyUag_d-tI)

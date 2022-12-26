@@ -1,4 +1,9 @@
 # Exercise 01 - Ho ho ho!
+
+![GitHub](https://img.shields.io/badge/Difficulty-Easy-green)
+![GitHub](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![GitHub](https://img.shields.io/badge/Difficulty-Hard-red)
+
 [Watch this video first!](https://youtu.be/ClOBza7CfI0) <- Click here or on the thumbnail below!
 
 [![Watch this video first!](https://img.youtube.com/vi/ClOBza7CfI0/0.jpg)](https://www.youtube.com/watch?v=ClOBza7CfI0)
@@ -62,6 +67,8 @@ You can complete the task in 3 different difficulty levels:
 
 #### Easy
 
+![GitHub](https://img.shields.io/badge/Difficulty-Easy-green)
+
 Just call the `print_christmas_tree()` function with **a fixed height** as an argument.
 
 e.g.:
@@ -75,6 +82,8 @@ You can also use the `#define` directive to define a constant.
 Then, you may use a combination of `for-loops` and `printf()` to print the tree.
 
 #### Medium
+
+![GitHub](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 Call the `print_christmas_tree()` function with **a dynamic height** as an argument from the **Command Line**.
 
@@ -93,6 +102,8 @@ You can use the `atoi()` function to convert the string to an integer or go beyo
 `strtol`: [https://devdocs.io/c/string/byte/strtol](https://devdocs.io/c/string/byte/strtol)
 
 #### Hard
+
+![GitHub](https://img.shields.io/badge/Difficulty-Hard-red)
 
 Everything from the Medium level, but also:
 

@@ -1,5 +1,7 @@
 # Exercise 01 - \[Hu\]rraaaaaays Part I
 
+![GitHub](https://img.shields.io/badge/Difficulty-Medium-yellow)
+
 [Watch this video first!](https://youtu.be/ClOBza7CfI0) <- Click here or on the thumbnail below!
 
 [![Watch this video first!](https://img.youtube.com/vi/ClOBza7CfI0/0.jpg)](https://www.youtube.com/watch?v=ClOBza7CfI0)
