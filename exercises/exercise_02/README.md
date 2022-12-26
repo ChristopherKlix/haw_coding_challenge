@@ -1,12 +1,12 @@
-# Exercise 01 - Ho ho ho!
+# Exercise 02 - Ho ho ho!
 
 ![GitHub](https://img.shields.io/badge/Difficulty-Easy-green)
 ![GitHub](https://img.shields.io/badge/Difficulty-Medium-yellow)
 ![GitHub](https://img.shields.io/badge/Difficulty-Hard-red)
 
-[Watch this video first!](https://youtu.be/ClOBza7CfI0) <- Click here or on the thumbnail below!
+[Watch this video first!](https://youtu.be/EMrc0KZJh54) <- Click here or on the thumbnail below!
 
-[![Watch this video first!](https://img.youtube.com/vi/ClOBza7CfI0/0.jpg)](https://www.youtube.com/watch?v=ClOBza7CfI0)
+[![Watch this video first!](https://img.youtube.com/vi/EMrc0KZJh54/0.jpg)](https://www.youtube.com/watch?v=EMrc0KZJh54)
 
 🎄⛄️ **Ho ho ho! Merry Christmas!**
 
@@ -158,8 +158,14 @@ The **solution code** is in the `solution` folder.
 
 ## Intro video
 
-Available on 24.12.2022.
+[Watch the video on YouTube](https://youtu.be/EMrc0KZJh54) <- Click here or on the thumbnail below!
+
+[![Watch this video first!](https://img.youtube.com/vi/EMrc0KZJh54/0.jpg)](https://www.youtube.com/watch?v=EMrc0KZJh54)
 
 ## Solution video
 
-Available on 25.12.2022.
+Coming soon!
+
+<!-- [Watch the video on YouTube](https://youtu.be/placeholder) <- Click here or on the thumbnail below!
+
+[![Watch this video first!](https://img.youtube.com/vi/placeholder/0.jpg)](https://www.youtube.com/watch?v=placeholder) -->
