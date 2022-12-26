@@ -64,6 +64,9 @@ int main(int argc, char const *argv[])
 
     printf("Average of the array: %4.1lf\n", average);
 
+    // Step 6: Free memory
+    free(numbers_arr);
+
     return 0;
 }
 
