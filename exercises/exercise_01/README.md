@@ -63,12 +63,12 @@ The **solution code** is in the `solution` folder.
 
 ## Intro video
 
-Will be available in a few minutes...
+[Watch the video on YouTube](https://youtu.be/_4bcDy9N6GA) <- Click here or on the thumbnail below!
+
+[![Watch this video first!](https://img.youtube.com/vi/_4bcDy9N6GA/0.jpg)](https://www.youtube.com/watch?v=_4bcDy9N6GA)
+
+## Solution video
 
 [Watch the video on YouTube](https://youtu.be/nvqDZ9JfjXA) <- Click here or on the thumbnail below!
 
 [![Watch this video first!](https://img.youtube.com/vi/nvqDZ9JfjXA/0.jpg)](https://www.youtube.com/watch?v=nvqDZ9JfjXA)
-
-## Solution video
-
-Available on 24.12.2022.
