@@ -2,9 +2,9 @@
 
 ![GitHub](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-[Watch this video first!](https://youtu.be/ClOBza7CfI0) <- Click here or on the thumbnail below!
+[Watch this video first!](https://youtu.be/_4bcDy9N6GA) <- Click here or on the thumbnail below!
 
-[![Watch this video first!](https://img.youtube.com/vi/ClOBza7CfI0/0.jpg)](https://www.youtube.com/watch?v=ClOBza7CfI0)
+[![Watch this video first!](https://img.youtube.com/vi/_4bcDy9N6GA/0.jpg)](https://www.youtube.com/watch?v=_4bcDy9N6GA)
 
 This exercises is all about **arrays**.
 
@@ -65,9 +65,9 @@ The **solution code** is in the `solution` folder.
 
 Will be available in a few minutes...
 
-[Watch the video on YouTube](https://youtu.be/ClOBza7CfI0) <- Click here or on the thumbnail below!
+[Watch the video on YouTube](https://youtu.be/nvqDZ9JfjXA) <- Click here or on the thumbnail below!
 
-[![Watch this video first!](https://img.youtube.com/vi/ClOBza7CfI0/0.jpg)](https://www.youtube.com/watch?v=ClOBza7CfI0)
+[![Watch this video first!](https://img.youtube.com/vi/nvqDZ9JfjXA/0.jpg)](https://www.youtube.com/watch?v=nvqDZ9JfjXA)
 
 ## Solution video
 
