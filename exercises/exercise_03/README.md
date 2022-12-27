@@ -114,7 +114,9 @@ If the user does not provide any CLI arguments, the program should/could ask the
 
 **Hint:** You can use `scanf` to read input from the user. But you can also use `getchar` and `fgets` to read input from the user. It's up to you.
 
-![Temperature Conversion Meme](res/exercise_03_meme_temps.png | width=400)
+![Temperature Conversion Meme](res/exercise_03_meme_temps.png)
+
+<img src="https://github.com/ChristopherKlix/haw_coding_challenge/blob/main/exercises/exercise_03/res/exercise_03_meme_temps.png" width="200" alt="Temperature Conversion Meme">
 
 Come on, this is funny 😂
 
