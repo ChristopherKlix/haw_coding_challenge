@@ -2,9 +2,9 @@
 
 ![GitHub](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-[Watch this video first!](https://youtu.be/placeholder) <- Click here or on the thumbnail below!
+[Watch this video first!](https://youtu.be/nu-wzGlz98U) <- Click here or on the thumbnail below!
 
-[![Watch this video first!](https://img.youtube.com/vi/placeholder/0.jpg)](https://www.youtube.com/watch?v=placeholder)
+[![Watch this video first!](https://img.youtube.com/vi/nu-wzGlz98U/0.jpg)](https://www.youtube.com/watch?v=nu-wzGlz98U)
 
 📖🕯 **Story time! There once was a man called Lord Kelvin...**
 
@@ -274,11 +274,9 @@ The **solution code** is in the `solution` folder.
 
 ## Intro video
 
-Coming soon!
+[Watch the video on YouTube](https://youtu.be/nu-wzGlz98U) <- Click here or on the thumbnail below!
 
-[Watch the video on YouTube](https://youtu.be/placeholder) <- Click here or on the thumbnail below!
-
-[![Watch this video first!](https://img.youtube.com/vi/placeholder/0.jpg)](https://www.youtube.com/watch?v=placeholder)
+[![Watch this video first!](https://img.youtube.com/vi/nu-wzGlz98U/0.jpg)](https://www.youtube.com/watch?v=nu-wzGlz98U)
 
 ## Solution video
 
