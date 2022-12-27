@@ -274,14 +274,16 @@ The **solution code** is in the `solution` folder.
 
 ## Intro video
 
-[Watch the video on YouTube](https://youtu.be/EMrc0KZJh54) <- Click here or on the thumbnail below!
+Coming soon!
 
-[![Watch this video first!](https://img.youtube.com/vi/EMrc0KZJh54/0.jpg)](https://www.youtube.com/watch?v=EMrc0KZJh54)
+[Watch the video on YouTube](https://youtu.be/placeholder) <- Click here or on the thumbnail below!
+
+[![Watch this video first!](https://img.youtube.com/vi/placeholder/0.jpg)](https://www.youtube.com/watch?v=placeholder)
 
 ## Solution video
 
 Coming soon!
 
-[Watch the video on YouTube](https://youtu.be/gIe5vTqdlLY) <- Click here or on the thumbnail below!
+[Watch the video on YouTube](https://youtu.be/placeholder) <- Click here or on the thumbnail below!
 
-[![Watch this video first!](https://img.youtube.com/vi/gIe5vTqdlLY/0.jpg)](https://www.youtube.com/watch?v=gIe5vTqdlLY)
+[![Watch this video first!](https://img.youtube.com/vi/placeholder/0.jpg)](https://www.youtube.com/watch?v=placeholder)
