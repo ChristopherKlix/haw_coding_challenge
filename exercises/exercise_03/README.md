@@ -12,7 +12,7 @@ _...who said that it was impossible to measure the temperature of a body below a
 
 ![Lord Kelvin Meme](res/exercise_03_meme_kelvin.png)
 
-This is funny cause 20 degree Celsius is the same as 293.15 Kelvin.
+This is funny cause 20 degree Celsius is the same as 293.15 Kelvin and 293.15 is a preeeeettty high IQ, soooooo... yeah...
 
 ## The Task
 
