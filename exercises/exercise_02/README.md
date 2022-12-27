@@ -166,6 +166,6 @@ The **solution code** is in the `solution` folder.
 
 Coming soon!
 
-<!-- [Watch the video on YouTube](https://youtu.be/placeholder) <- Click here or on the thumbnail below!
+[Watch the video on YouTube](https://youtu.be/gIe5vTqdlLY) <- Click here or on the thumbnail below!
 
-[![Watch this video first!](https://img.youtube.com/vi/placeholder/0.jpg)](https://www.youtube.com/watch?v=placeholder) -->
+[![Watch this video first!](https://img.youtube.com/vi/gIe5vTqdlLY/0.jpg)](https://www.youtube.com/watch?v=gIe5vTqdlLY)

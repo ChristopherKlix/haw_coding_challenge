@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
     // Easy: Call the function print_christmas_tree()
     //       with a fixed the height, e.g.: 8
 
-    print_christmas_tree(20);
+    print_christmas_tree(8);
 
     // Medium: Call the function print_christmas_tree()
     //         with a value from the command line
@@ -79,7 +79,7 @@ void print_tree(size_t height)
     // e.g.: height = 8 -> layers = 6
     int tree_layers = height - 1 - 1;
 
-    // Width equals height + 1 to center the leaves
+    // Width equals twice the height minus 1
     // e.g.: height = 8 -> width = 11
     int tree_width = (tree_layers * 2) - 1;
 
