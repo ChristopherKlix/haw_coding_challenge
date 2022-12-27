@@ -45,7 +45,7 @@ New exercises will be published (almost) every day.
 
 [Exercise 1 - [Hu]rraaaaaays Part I](./exercises/exercise_01/)
 
-[Exercise 2 - Ho ho ho!](./exercises/exercise_02/)
+[Exercise 2 - Ho ho ho! 🎄⛄️](./exercises/exercise_02/)
 
 [Exercise 3 - Brrrrr!!! It's cold outside! 🥶](./exercises/exercise_03/) (Out now!)
 
