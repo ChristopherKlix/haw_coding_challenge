@@ -1,4 +1,4 @@
-# Exercise 02 - Ho ho ho!
+# Exercise 02 - Ho ho ho! 🎄⛄️
 
 ![GitHub](https://img.shields.io/badge/Difficulty-Easy-green)
 ![GitHub](https://img.shields.io/badge/Difficulty-Medium-yellow)
